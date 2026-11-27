@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64" role="img" aria-label="Target Achievement">
+  <rect width="64" height="64" rx="13" fill="#075522"/>
+  <g fill="none" stroke-width="1.9">
+    <circle cx="32" cy="32" r="20" stroke="#A5F9B2"/>
+    <circle cx="32" cy="32" r="11.6" stroke="#79F883"/>
+  </g>
+  <path d="M32 32 L48.5 15.5" fill="none" stroke="#075522" stroke-width="5" stroke-linecap="round"/>
+  <path d="M32 32 L48.5 15.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M44 14.5 L53 12 L50.5 21 Z" fill="#FFFFFF" stroke="#075522" stroke-width="0.7" stroke-linejoin="round" paint-order="stroke fill"/>
+  <circle cx="32" cy="32" r="3" fill="#FFFFFF"/>
+</svg>
